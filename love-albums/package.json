@@ -1,0 +1,12 @@
+{
+  "name": "love-albums",
+  "version": "1.0.0",
+  "description": "Private romantic photo albums",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.2.0"
+  }
+}

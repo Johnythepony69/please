@@ -1,0 +1,4 @@
+Node.js >=18
+Express
+Firebase Admin SDK
+Firebase JS SDK
